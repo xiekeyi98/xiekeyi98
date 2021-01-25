@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**xiekeyi98/xiekeyi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 No learning, no skills🐟....
 - 🌱 **Go/C++**
 - 📫 Email: [xiekeyi98+github@gmail.com](mailto:xiekeyi98+github@gmail.com)
