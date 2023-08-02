@@ -17,6 +17,5 @@
 </p>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiekeyi98&show_icons=true&count_private=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiekeyi98&layout=compact&theme=buefy&hide=stylus,EJS,css,HTML,vuescript,javascript)
 
